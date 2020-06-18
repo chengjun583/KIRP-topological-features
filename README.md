@@ -52,4 +52,4 @@ We also conduct receiver-operator characteristic (ROC) curve analysis for binary
 Contact information
 -----
 If you have any questions, feel free to contact me.<br>
-Jun Cheng, Southern Medical University, Guangzhou, China. Email: chengjun583@qq.com
+Jun Cheng, Shenzhen University, Shenzhen, China. Email: chengjun583@qq.com
